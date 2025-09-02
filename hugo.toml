@@ -15,6 +15,7 @@ disableKinds = ["taxonomy", "term"]
 
   links = [
     { youtube = "https://youtube.com/@diecknet" },
+    { youtube = { href = "https://youtube.com/@diecknet2", text = "YouTube (English Channel)" } }
     { link = "https://diecknet.de/" },
     { kofi = { href = "https://ko-fi.com/diecknet", text = "Buy me a coffee" }},
     { discord = "https://discord.gg/42st5daFfp" },
